@@ -1,0 +1,18 @@
+{
+  "signature": "2f62838333dec7e552ee88cfc4703e372a17fa6675f7c4b15f8a19ce658049ec",
+  "data": {
+    "version": "2.0",
+    "updated": "2026-06-10T21:03:17.443792",
+    "licenses": {
+      "8E5841CF-A8357CCA-50288A34-2F940C60": {
+        "status": "active",
+        "expires_at": "4764-05-07T21:02:52.127227",
+        "features": [
+          "all"
+        ],
+        "max_activations": 50,
+        "activated_pcs": []
+      }
+    }
+  }
+}
