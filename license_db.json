@@ -1,25 +1,19 @@
 {
-    "licenses": {
-        "9BADB8DD-7501-485B-BB2A-8DDF7DA3300B": {
-            "status": "active",
-            "issued_to": "Engineer",
-            "issued_at": "2026-01-01",
-            "expires_at": "2999-12-31",
-            "max_activations": 3,
-            "activated_on": [],
-            "features": [
-                "ssh",
-                "backup",
-                "monitor",
-                "weather",
-                "calculator",
-                "alarm",
-                "network",
-                "report",
-                "dashboard"
-            ]
-        }
-    },
-    "version": 2,
-    "last_updated": "2026-06-10"
+  "licenses": {
+    "8E5841CF-A8357CCA-50288A34-2F940C60": {
+      "key": "8E5841CF-A8357CCA-50288A34-2F940C60",
+      "customer": "mimimiCompany",
+      "created_at": "2026-06-10T21:03:12.587935",
+      "expires_at": "4764-05-07T21:02:52.127227",
+      "status": "active",
+      "max_activations": 50,
+      "features": [
+        "all"
+      ],
+      "activated_pcs": [],
+      "notes": "For engineers of mimimiCompany"
+    }
+  },
+  "created": "2026-06-10T21:03:12.587966",
+  "last_updated": "2026-06-10T21:03:12.587959"
 }
