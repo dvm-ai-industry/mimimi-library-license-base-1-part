@@ -1,0 +1,25 @@
+{
+    "licenses": {
+        "9BADB8DD-7501-485B-BB2A-8DDF7DA3300B": {
+            "status": "active",
+            "issued_to": "Engineer",
+            "issued_at": "2026-01-01",
+            "expires_at": "2999-12-31",
+            "max_activations": 3,
+            "activated_on": [],
+            "features": [
+                "ssh",
+                "backup",
+                "monitor",
+                "weather",
+                "calculator",
+                "alarm",
+                "network",
+                "report",
+                "dashboard"
+            ]
+        }
+    },
+    "version": 2,
+    "last_updated": "2026-06-10"
+}
